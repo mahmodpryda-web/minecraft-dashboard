@@ -1,7 +1,7 @@
 {
   "TEST-KEY-123": {
     "owner_name": "اسم العميل",
-    "status": "off",
+    "status": "disabled",
     "expires": "2026-12-01"
   }
 }
